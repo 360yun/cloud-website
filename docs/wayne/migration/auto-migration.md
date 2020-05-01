@@ -1,10 +1,10 @@
-# 自动迁移
+# 应用自动迁移
 
-> 目前未支持的资源可通过[手动迁移](tion.md)进行其它资源的迁移
+> 目前未支持的资源可通过[应用手动迁移](manual-migration.md)进行其它资源的迁移
 
 ## 1.创建项目
 
-选择要迁移的 Namespace, 点击创建项目创建相应的项目。如果要迁到的项目已经存在，跳过此步骤。
+选择要迁移的部门（Namespace）, 点击创建项目创建相应的项目。如果要迁到的项目已经存在，跳过此步骤。
 
 ![](../images/portal-migration.png?classes=border,shadow)
 
@@ -24,4 +24,3 @@
 
 ![](../images/portal-migration-deployment-deploy.png?classes=border,shadow)
 
-> 其他资源迁移参考部署的迁移流程即可

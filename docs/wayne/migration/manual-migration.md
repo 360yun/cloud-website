@@ -1,4 +1,4 @@
-# 手动迁移
+# 应用手动迁移
 
 ## 1.创建项目
 
@@ -6,7 +6,7 @@
 
 ![](../images/portal-migration.png?classes=border,shadow)
 
-## 2.迁移资源
+## 2.配置应用
 
 这里以 `Deployment` 为例, 演示迁移流程。
 
@@ -27,4 +27,3 @@
 ![](../images/portal-migration-deployment-deploy.png?classes=border,shadow)
 
 
-> 其他资源迁移参考部署的迁移流程即可
